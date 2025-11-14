@@ -6,7 +6,6 @@ Small TS API test automation
 
 ### ✅ Project 2 — Todo API Tests (repo: `todo-api-tests-ts`)
 
-````markdown
 # ✅ Todo API Tests (TypeScript + Vitest)
 
 This project covers basic **CRUD API testing** using [Vitest](https://vitest.dev/) and [Axios](https://axios-http.com/).  
